@@ -5,7 +5,7 @@ from PIL import Image, ImageTk
 class login_page:
     def __init__(self, root):
         self.root = root
-        self.root.title("LOGIN PAGE || Developed By Pooja Bhardwaj ")
+        self.root.title("LOGIN PAGE || Developed By Nidhi")
         self.root.geometry("400x385")
         self.root.config(bg="white")
         self.root.resizable(False,False)
